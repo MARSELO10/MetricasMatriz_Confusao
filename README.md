@@ -134,19 +134,19 @@ projeto
 
 ---
 
-📊 Aplicações em Machine Learning
+## 📊 Aplicações em Machine Learning
 
-*Classificação de flores em múltiplas classes (3 tipos de Iris: setosa, versicolor e virginica)
+* Classificação de flores em múltiplas classes (3 tipos de Iris: setosa, versicolor e virginica)
 
-*Comparação de diferentes modelos de classificação (Regressão Logística, Árvore de Decisão, Random Forest, KNN, SVM)
+* Comparação de diferentes modelos de classificação (Regressão Logística, Árvore de Decisão, Random Forest, KNN, SVM)
 
-*Extração de métricas de desempenho (Accuracy, Recall, Specificity, Precision, F-score)
+* Extração de métricas de desempenho (Accuracy, Recall, Specificity, Precision, F-score)
 
-*Treinamento supervisionado com rótulos fornecidos pelo dataset
+* Treinamento supervisionado com rótulos fornecidos pelo dataset
 
-*Avaliação de desempenho em conjunto de teste e análise via matrizes de confusão
+* Avaliação de desempenho em conjunto de teste e análise via matrizes de confusão
 
-*Aplicação prática em problemas de classificação multiclasse e validação de modelos de machine learning
+* Aplicação prática em problemas de classificação multiclasse e validação de modelos de machine learning
 
 ---
 
