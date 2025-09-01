@@ -2,7 +2,7 @@
 
 ---
 
-# 🟣🌹 Matrix Confusion - Métricas - Íris
+# 🟣🌹 Matriz de Confusão - Métricas - Íris
 
 [![Python](https://img.shields.io/badge/Python-3.12.6-blue.svg)](https://python.org)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
